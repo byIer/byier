@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=byIer&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=byIer&label=fans)
